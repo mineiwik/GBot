@@ -1,6 +1,6 @@
 # GBot
 
-GBot is a Gcode generator for different shapes.
+GBot is a G-code generator for different shapes.
 
-Allowed shape:
+Possible shape:
 - n-gon (triangle, square, pentagon, ...)
